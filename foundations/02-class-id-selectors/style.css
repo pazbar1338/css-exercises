@@ -1,0 +1,18 @@
+#first-even {
+    color: rgb(52,52,235);
+    font-size: 36px;
+}
+
+#second-even{
+    background-color: rgb(129, 245, 125);
+    font-weight: bold;
+}
+
+.odd { 
+    background-color: rgb(240, 146, 176);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.font-size {
+    font-size: 24px   ;
+}
